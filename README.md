@@ -1,5 +1,4 @@
-
-
+![alt text](https://github.com/caldasrdev/caldasrdev/blob/main/BIO.jpg?raw=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
